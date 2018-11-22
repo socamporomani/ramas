@@ -16,6 +16,7 @@ public class ClaseLeader {
         //Hola Sergio
         //Aquí va a haber conflicto
         //Yo debería tener prioridad
+        //Tengo prioridad
     }
     
 }
