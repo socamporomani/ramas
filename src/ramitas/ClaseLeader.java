@@ -12,7 +12,7 @@ package ramitas;
 public class ClaseLeader {
 
     public ClaseLeader() {
-        System.out.println("esta es mi rama pero no la principal");
+        System.out.println("esta es mi rama, la principal");
     }
     
 }
