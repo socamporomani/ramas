@@ -9,10 +9,10 @@ package ramitas;
  *
  * @author socamporomani
  */
-public class Leader {
+public class ClaseLeader {
 
-    public Leader() {
-        System.out.println("Esta es mi rama pero no la master");
+    public ClaseLeader() {
+        System.out.println("esta es mi rama pero no la principal");
     }
     
 }
