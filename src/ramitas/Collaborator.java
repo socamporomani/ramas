@@ -12,5 +12,4 @@ package ramitas;
 public class Collaborator {
     
     //System.out.println("Hola Colaborador"); 
-    //NUEVA FUNCIONALIDAD INCREIBLE
 }
